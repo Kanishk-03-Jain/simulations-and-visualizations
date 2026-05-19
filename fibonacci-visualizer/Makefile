@@ -1,5 +1,8 @@
 build:
-	gcc -Wall -Wextra fibonacci.c -o fibonacci -lraylib
+	gcc -Wall -Wextra -Iinclude ./src/main.c ./src/fibonacci.c ./src/renderer.c -o main -lraylib
 
 run:
-	./fibonacci
+	./main
+
+clean:
+	rm -f ./main
