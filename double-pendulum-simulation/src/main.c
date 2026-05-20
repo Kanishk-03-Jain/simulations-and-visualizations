@@ -41,6 +41,8 @@ int main() {
             // draw trail
             drawTrail(&sim);
 
+            renderUIPanel(&sim);
+
         EndDrawing();
     }
 

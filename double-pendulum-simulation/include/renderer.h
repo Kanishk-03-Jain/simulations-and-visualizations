@@ -9,3 +9,4 @@
 
 void drawPendulum(Pendulum *pendulum);
 void drawTrail(Simulation *sim);
+void renderUIPanel(Simulation *sim);

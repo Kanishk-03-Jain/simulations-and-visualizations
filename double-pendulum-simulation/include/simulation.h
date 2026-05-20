@@ -14,8 +14,8 @@ typedef struct {
     float omega;    // angular velocity
     float alpha;    // angular acceleration
 
-    int length;     // length of the rod
-    int mass;       // mass of the bob
+    float length;     // length of the rod
+    float mass;       // mass of the bob
 
     Vector2 pivot;  // pivot position (start pos)
     Vector2 bob;    // position of bob (end pos)
