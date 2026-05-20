@@ -2,6 +2,11 @@
 
 A lightweight, interactive physics simulation demonstrating the [Doppler Effect](https://en.wikipedia.org/wiki/Doppler_effect), written in C using the [raylib](https://www.raylib.com/) library. 
 
+## Demo
+
+https://github.com/user-attachments/assets/93f9f1e1-6686-474a-93eb-8ce3f9cb50bf
+
+
 ##  Features
 
 - **Interactive Emitter**: Move the sound source (emitter) in real-time.
