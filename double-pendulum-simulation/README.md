@@ -2,6 +2,10 @@
 
 A lightweight, interactive simulation demonstrating the chaotic motion of a double pendulum, written in C using the [raylib](https://www.raylib.com/) library and raygui for UI controls.
 
+## Demo
+
+https://github.com/user-attachments/assets/98c0bfe7-f6dc-4261-9292-1f6d07b75dc7
+
 ## Features
 
 - **Realistic Physics**: Simulates the complex and chaotic motion of a double pendulum system.
